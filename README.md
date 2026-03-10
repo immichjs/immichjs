@@ -73,13 +73,14 @@ Performance evaluation and feedback system used by companies.
 
 **ReDeck**  
 Flashcard learning platform using spaced repetition.
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=immichjs&show_icons=true&theme=tokyonight"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immichjs&layout=compact&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immichjs&layout=compact"/>
 </p>
 
 ---
