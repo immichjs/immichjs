@@ -33,7 +33,7 @@ Currently focused on:
 ![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,ts,express,dotnet)
 
 ### Frontend
-![Frontend](https://skillicons.dev/icons?i=angular,vue,nuxt,tailwind,sass)
+![Frontend](https://skillicons.dev/icons?i=angular,vue,nuxt,pinia,tailwind,sass)
 
 ### Databases
 ![Databases](https://skillicons.dev/icons?i=postgres,mongodb,redis)
@@ -42,7 +42,7 @@ Currently focused on:
 ![Messaging](https://skillicons.dev/icons?i=rabbitmq)
 
 ### DevOps & Tools
-![Tools](https://skillicons.dev/icons?i=docker,git,aws,gcp)
+![Tools](https://skillicons.dev/icons?i=docker,git,aws,gcp,nginx)
 
 ---
 
